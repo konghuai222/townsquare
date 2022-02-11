@@ -1740,4 +1740,15 @@
     "ability": "Once per day, you may choose to kill an alive neighbour, if your other alive neighbour agrees."
   }
 ]
-
+    "id":"warlock",
+    "name":"warlock",
+    "edition":"",
+    "team":"demon",
+    "firstNight":29,
+    "firstNightReminder":"",
+    "otherNight":27,
+    "otherNightReminder":"",
+    "reminders":[be cursed],
+    "setup":ture,
+    "ability":"Each night, choose a player to curse. The cursed player will be poisoned until dusk the next day. Every night *, the closest surviving player to the curse target of the previous night will die. If you don't curse one day, the next day you can curse two people and kill a player that night."
+    
